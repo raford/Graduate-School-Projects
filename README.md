@@ -9,7 +9,7 @@ The university course catalog provides the following course description:
 >Introduction to techniques for data mining and analytics with emphasis on R programming and hands-on experience with real data; topics covered: dimension reduction, cluster analysis, ordinary and partial least squares regression, principal components regression, ridge regression, l1-regularization, logistic regression, assessment of classifier, decision/regression trees, bagging and boosting, random forests, and data visualization techniques. 
 
 ## STAT 5494 - Statistical Data Mining
-This folder will contain the projects completed for this course. I am currently taking this course (Fall 2018), and it is being taught by Professor Xiaogang Su.
+This folder will contain the projects completed for this course. I am currently taking this course (Fall 2018), and it is being taught by Professor Xiaogang Su. The course website containing the assigned projects is located [here](https://sites.google.com/site/utepstat5494).
 
 The university course catalog provides the following course description:
 
